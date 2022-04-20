@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+#include "getArea.h"
 
 double getArea(double width, double height, double depth, double *volume, double *surfaceArea)
 {
